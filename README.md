@@ -1,2 +1,2 @@
-# Covid-stats
-Get updated statistics on covid-19 
+# covid-stat
+A simple project that shows the current covid-19 stats
